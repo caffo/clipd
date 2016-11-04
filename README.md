@@ -6,7 +6,7 @@ Ruby based, minimal dmenu based clipboard managed -- based on http://mpov.timmor
 
 * Clone the repo to a local directory
 * Customize dmenu presentation by modifying `DMENU_COMMAND`
-* Run clip into background in your `xinitrc`, like this:
+* Run clip into background in your `.xinitrc`, like this:
 ```
 ~/Source/clipd/clipd &
 ```
